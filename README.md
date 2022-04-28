@@ -1,5 +1,5 @@
 Title: RecipeRanker
-Team Name:  The Two out of Five
+Team Name:  The Two out of Five / Group 6
 Team Members:
 	Alejandro Bermea
 	James Nasif
