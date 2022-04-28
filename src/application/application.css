@@ -1,0 +1,100 @@
+.Scene1{
+-fx-background-image:url('../Images/Scene1.jpeg');
+-fx-background-size:cover;
+}
+.cyanButton{
+-fx-background-image:url('../Images/cyanButton.png');
+-fx-background-size: 100% 100%;
+}
+.Scene2{
+-fx-background-image:url('../Images/Scene2.jpg');
+-fx-background-size: 100% 100%;
+}
+.Dinner{
+-fx-background-image:url('../Images/Dinner.png');
+-fx-background-size: 100% 100%;
+}
+.Lunch{
+-fx-background-image:url('../Images/Lunch.png');
+-fx-background-size: 100% 100%;
+}
+.Breakfast{
+-fx-background-image:url('../Images/Breakfast.png');
+-fx-background-size: 100% 100%;
+}
+.redButton{
+-fx-background-image:url('../Images/redButton.png');
+-fx-background-size: 100% 100%;
+}
+.greenButton{
+-fx-background-image:url('../Images/greenButton.png');
+-fx-background-size: 100% 100%;
+}
+.Breakfast2{
+-fx-background-image:url('../Images/Breakfast2.png');
+-fx-background-size: 100% 100%;
+}
+.breakfastScene{
+-fx-background-image:url('../Images/breakfastScene.png');
+-fx-background-size: 100% 100%;
+}
+.lunchScene{
+-fx-background-image:url('../Images/lunchScene.jpg');
+-fx-background-size: 100% 190%;
+}
+.dinnerScene{
+-fx-background-image:url('../Images/dinnerScene.png');
+-fx-background-size: 100% 190%;
+}
+.backButton{
+-fx-background-image:url('../Images/backButton.png');
+-fx-background-size: 100% 100%;
+}
+.blackButton{
+-fx-background-image:url('../Images/blackButton.png');
+-fx-background-size: 100% 100%;
+}
+.blackButton2{
+-fx-background-image:url('../Images/blackButton2.png');
+-fx-background-size: 100% 100%;
+}
+.whiteBackButton{
+-fx-background-image:url('../Images/whiteBackButton.png');
+-fx-background-size: 100% 100%;
+}
+.grayButton{
+-fx-background-image:url('../Images/grayButton.png');
+-fx-background-size: 100% 100%;
+}
+.redBackButton{
+-fx-background-image:url('../Images/redBackButton.png');
+-fx-background-size: 100% 100%;
+}
+.backgroundAllRecipes{
+-fx-background-image:url('../Images/backgroundAllRecipes.png');
+-fx-background-size: 100% 160%;
+}
+.ope{
+-fx-background-image:url('../Images/ope.png');
+-fx-background-size: 100% 100%;
+}
+.me{
+-fx-background-image:url('../Images/me.png');
+-fx-background-size: 100% 100%;
+}
+.David{
+-fx-background-image:url('../Images/David.png');
+-fx-background-size: 100% 100%;
+}
+.mark{
+-fx-background-image:url('../Images/mark.png');
+-fx-background-size: 100% 100%;
+}
+.James{
+-fx-background-image:url('../Images/James.png');
+-fx-background-size: 100% 100%;
+}
+.creditBackground{
+-fx-background-image:url('../Images/creditBackground.jpg');
+-fx-background-size: 100% 100%;
+}
